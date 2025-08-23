@@ -2,6 +2,8 @@
 
 A Streamlit-based web application for predicting **bank customer churn** using a trained machine learning pipeline. This project helps banks identify customers at risk of leaving and supports strategic decision-making through insights, threshold tuning, and business impact simulations.
 
+Link: https://bank-customer-churn-analysisportofolio-ja8nnopavdkzstxfpdfwjt.streamlit.app/
+
 ---
 
 ## 🚀 Features
