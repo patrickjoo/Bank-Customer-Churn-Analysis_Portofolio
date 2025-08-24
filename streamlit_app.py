@@ -281,7 +281,7 @@ with TAB_EXPLAIN:
     st.subheader("💼 Business Impact Simulation")
     st.write("""This simulation helps you understand the potential profit or loss from customer retention strategies. You can adjust the business assumptions to see their impact.""")
 
-    # --- Input Asumsi Bisnis (langsung di tab, bukan sidebar) ---
+    # --- Input Asumsi Bisnis ---
     with st.expander("📊 Business Assumptions", expanded=True):
         total_customers = st.number_input("Total Customers", min_value=100, value=1000, step=100)
         predicted_churn_rate = st.slider("Predicted Churn Rate (%)", 0, 100, 20, 1)
